@@ -1,0 +1,6 @@
+{
+  "name": "Movie-trailer-website",
+  "tagline": "Web page built in Python listing my personal favorite movies with links to each movie's trailer",
+  "body": "# Movie Trailer Website\r\nPython-built web page listing of my personal favorite movies with links to each movie's trailer.\r\n\r\n### How can I get the code?\r\nFeel free to Fork your own version of this code and play around within the three files.\r\n\r\n### What are the technical requirements?\r\nSince the program is based in Python 2.7, it is essential that you have Python 2.7 installed on your machine.\r\n\r\n### What's Included\r\nWithin the download you'll find the following files:\r\n```\r\nentertainment_center.py\r\nmedia.py\r\nfresh_tomatoes.py\r\nexample.html\r\n```\r\n\r\n### How do I run the application?\r\nRunning entertainment_center.py will generate an HTML web page. The page will automatically launch in your default web browser. An example .html file is included as a reference for what the page should look like upon running entertainment_center.py.\r\n\r\n### Application Features\r\n* Hover over a movie panel to view a single sentence synopsis of the movie.\r\n* Click a movie to launch the movie's trailer.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
